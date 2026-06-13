@@ -5,3 +5,7 @@ openai
 langchain
 chromadb
 tiktoken
+streamlit
+langchain
+langchain-community
+langchain-groq
